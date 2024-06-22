@@ -5,8 +5,8 @@ import socketpool
 import time
 
 # Wi-Fi credentials
-ssid = "Fsociety"        # Replace with your Wi-Fi SSID
-password = "f5f4f3f2f1"  # Replace with your Wi-Fi password
+ssid = ""        # Replace with your Wi-Fi SSID
+password = ""  # Replace with your Wi-Fi password
 
 # Connect to Wi-Fi
 print("Connecting to Wi-Fi...")
@@ -19,7 +19,7 @@ num_pixels = 8  # Number of NeoPixels
 pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.5, auto_write=False)
 
 # Server information
-server_ip = "192.168.87.37"  # Replace with the server's IP address
+server_ip = ""  # Replace with the server's IP address
 server_port = 6789
 
 def connect_to_server(ip, port):
