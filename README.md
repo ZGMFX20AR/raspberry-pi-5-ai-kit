@@ -28,9 +28,5 @@ To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/ZGMFX20AR/raspberry-pi-5-ai-kit.git
 
-## Setting Up the Client Side
-Note: This section requires the CircuitPython library which can be downloaded here.
 
-Insert an SD card containing the audio file (to create the audio file, you may follow this tutorial).
-Connect your Raspberry Pi Pico W to your Raspberry Pi 5.
-Navigate to the cloned folder:
+## Setting Up the Client Side
