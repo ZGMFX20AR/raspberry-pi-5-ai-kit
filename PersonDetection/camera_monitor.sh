@@ -1,3 +1,5 @@
+# This code snippet was taken from the GitHub repository: https://github.com/veebch/peeperpam/blob/main/camera_monitor.sh
+
 #!/bin/bash
 
 # Temporary file to store the latest relevant line
