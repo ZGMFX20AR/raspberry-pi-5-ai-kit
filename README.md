@@ -21,12 +21,3 @@ In this project, we utilize the high-performance Hailo-8L AI accelerator module 
 - **NVMe SSD (Optional)**: For faster boot and operation. Requires an M.2 to USB adapter for USB boot.
 - **Additional Tools and Accessories**: 27-Watt PD power supply for Raspberry Pi 5, internet connection, heatsinks or cooling fan, and a case for the Raspberry Pi.
 
-## Clone Repository
-
-To get started, clone the repository using the following command:
-
-```bash
-git clone https://github.com/ZGMFX20AR/raspberry-pi-5-ai-kit.git
-
-
-## Setting Up the Client Side
